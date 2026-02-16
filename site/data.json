@@ -6705,6 +6705,13 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-02-15",
+      "hour": 16,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15033,12 +15040,22 @@
           "distance": 2668.570068359375,
           "elevation_gain": 34.0,
           "moving_time": 1908.0
+        },
+        "2026-02-15": {
+          "activity_ids": [
+            "21877503047"
+          ],
+          "count": 1,
+          "distance": 2716.2900390625,
+          "elevation_gain": 49.0,
+          "moving_time": 1744.0
         }
       }
     }
   },
-  "generated_at": "2026-02-15T15:19:50.654762+00:00",
+  "generated_at": "2026-02-16T08:36:08.155959+00:00",
   "other_bucket": "OtherSports",
+  "repo": "thaberkern/git-sweaty",
   "source": "garmin",
   "type_meta": {
     "Elliptical": {
@@ -15091,19 +15108,19 @@
     },
     "breathwork": {
       "accent": "#ffbe0b",
-      "label": "breathwork"
+      "label": "Breathwork"
     },
     "jump_rope": {
       "accent": "#f15bb5",
-      "label": "jump rope"
+      "label": "Jump rope"
     },
     "kayaking_v2": {
       "accent": "#9b5de5",
-      "label": "kayaking v2"
+      "label": "Kayaking v2"
     },
     "tennis_v2": {
       "accent": "#00bbf9",
-      "label": "tennis v2"
+      "label": "Tennis v2"
     }
   },
   "types": [
@@ -15125,9 +15142,10 @@
     "jump_rope"
   ],
   "units": {
-    "distance": "km",
-    "elevation": "m"
+    "distance": "mi",
+    "elevation": "ft"
   },
+  "week_start": "sunday",
   "years": [
     2014,
     2015,
