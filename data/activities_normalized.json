@@ -11518,5 +11518,17 @@
     "start_date_local": "2026-02-16T15:32:32",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-02-17",
+    "distance": 6194.580078125,
+    "elevation_gain": 0.0,
+    "id": "21892433178",
+    "moving_time": 2389.0,
+    "raw_activity_type": "virtual_run",
+    "raw_type": "virtual_run",
+    "start_date_local": "2026-02-17T06:24:34",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
