@@ -11758,5 +11758,29 @@
     "start_date_local": "2026-03-11T05:50:59",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 2402.610107421875,
+    "elevation_gain": 30.0,
+    "id": "22140142551",
+    "moving_time": 1540.0,
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-03-11T17:35:23",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 1817.93994140625,
+    "elevation_gain": 27.0,
+    "id": "22148067773",
+    "moving_time": 1179.0,
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-03-12T12:27:04",
+    "type": "Walk",
+    "year": 2026
   }
 ]
