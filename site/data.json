@@ -7118,6 +7118,20 @@
       "subtype": "cycling",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 8,
+      "subtype": "cycling",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 16,
+      "subtype": "cycling",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15090,6 +15104,16 @@
           "distance": 5387.820068359375,
           "elevation_gain": 75.0,
           "moving_time": 1167.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "22685485598",
+            "22690277540"
+          ],
+          "count": 2,
+          "distance": 5684.949951171875,
+          "elevation_gain": 72.0,
+          "moving_time": 1110.0
         }
       },
       "Run": {
@@ -15969,7 +15993,7 @@
       }
     }
   },
-  "generated_at": "2026-04-27T16:22:21.922819+00:00",
+  "generated_at": "2026-04-28T16:48:11.573627+00:00",
   "other_bucket": "OtherSports",
   "repo": "thaberkern/git-sweaty",
   "source": "garmin",
