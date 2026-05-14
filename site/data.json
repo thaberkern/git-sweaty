@@ -7223,6 +7223,27 @@
       "subtype": "cycling",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 19,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 12,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 15,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15497,6 +15518,15 @@
           "distance": 11230.650390625,
           "elevation_gain": 39.0,
           "moving_time": 4335.388000488281
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "22879622362"
+          ],
+          "count": 1,
+          "distance": 10181.5595703125,
+          "elevation_gain": 62.0,
+          "moving_time": 3910.4420166015625
         }
       },
       "VirtualRun": {
@@ -16161,6 +16191,24 @@
           "distance": 1429.68994140625,
           "elevation_gain": 0.0,
           "moving_time": 969.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "22869990811"
+          ],
+          "count": 1,
+          "distance": 1747.699951171875,
+          "elevation_gain": 28.0,
+          "moving_time": 1117.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "22877348233"
+          ],
+          "count": 1,
+          "distance": 4765.75,
+          "elevation_gain": 124.0,
+          "moving_time": 3135.0
         }
       },
       "WeightTraining": {
@@ -16185,7 +16233,7 @@
       }
     }
   },
-  "generated_at": "2026-05-13T17:11:32.391531+00:00",
+  "generated_at": "2026-05-14T16:57:08.863760+00:00",
   "other_bucket": "OtherSports",
   "repo": "thaberkern/git-sweaty",
   "source": "garmin",
