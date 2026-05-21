@@ -12466,5 +12466,41 @@
     "start_date_local": "2026-05-19T12:06:44",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 2667.47998046875,
+    "elevation_gain": 29.0,
+    "id": "22955968763",
+    "moving_time": 554.0,
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-05-21T07:44:27",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 4901.509765625,
+    "elevation_gain": 36.0,
+    "id": "22958187478",
+    "moving_time": 2163.7850036621094,
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-21T12:13:35",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 2572.2900390625,
+    "elevation_gain": 42.0,
+    "id": "22960995472",
+    "moving_time": 599.0,
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-05-21T17:06:27",
+    "type": "Ride",
+    "year": 2026
   }
 ]
