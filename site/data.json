@@ -7314,6 +7314,20 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 8,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 18,
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15654,6 +15668,26 @@
           "distance": 7120.5400390625,
           "elevation_gain": 31.0,
           "moving_time": 2754.5440063476562
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "23040559544"
+          ],
+          "count": 1,
+          "distance": 7673.31982421875,
+          "elevation_gain": 192.0,
+          "moving_time": 3193.0
+        }
+      },
+      "Swim": {
+        "2026-05-28": {
+          "activity_ids": [
+            "23046282562"
+          ],
+          "count": 1,
+          "distance": 544.0,
+          "elevation_gain": 0.0,
+          "moving_time": 759.8590087890625
         }
       },
       "VirtualRun": {
@@ -16369,7 +16403,7 @@
       }
     }
   },
-  "generated_at": "2026-05-27T17:54:13.346129+00:00",
+  "generated_at": "2026-05-28T17:59:11.463089+00:00",
   "other_bucket": "OtherSports",
   "repo": "thaberkern/git-sweaty",
   "source": "garmin",

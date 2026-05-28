@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T17:54:13.329102+00:00",
+  "generated_at": "2026-05-28T17:59:11.444553+00:00",
   "years": {
     "2014": {
       "Run": {
@@ -8338,6 +8338,26 @@
           "distance": 7120.5400390625,
           "elevation_gain": 31.0,
           "moving_time": 2754.5440063476562
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "23040559544"
+          ],
+          "count": 1,
+          "distance": 7673.31982421875,
+          "elevation_gain": 192.0,
+          "moving_time": 3193.0
+        }
+      },
+      "Swim": {
+        "2026-05-28": {
+          "activity_ids": [
+            "23046282562"
+          ],
+          "count": 1,
+          "distance": 544.0,
+          "elevation_gain": 0.0,
+          "moving_time": 759.8590087890625
         }
       },
       "VirtualRun": {
