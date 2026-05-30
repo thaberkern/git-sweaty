@@ -7328,6 +7328,13 @@
       "subtype": "lap_swimming",
       "type": "Swim",
       "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 16,
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15688,6 +15695,15 @@
           "distance": 544.0,
           "elevation_gain": 0.0,
           "moving_time": 759.8590087890625
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "23069443019"
+          ],
+          "count": 1,
+          "distance": 848.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1198.2099609375
         }
       },
       "VirtualRun": {
@@ -16403,7 +16419,7 @@
       }
     }
   },
-  "generated_at": "2026-05-29T18:08:31.806835+00:00",
+  "generated_at": "2026-05-30T16:00:14.637639+00:00",
   "other_bucket": "OtherSports",
   "repo": "thaberkern/git-sweaty",
   "source": "garmin",
