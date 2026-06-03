@@ -12610,5 +12610,29 @@
     "start_date_local": "2026-06-02T15:51:06",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 5838.52978515625,
+    "elevation_gain": 5.0,
+    "id": "23112091556",
+    "moving_time": 2126.310012817383,
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-03T07:58:03",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 1024.0,
+    "elevation_gain": 0.0,
+    "id": "23115193140",
+    "moving_time": 1484.865966796875,
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-06-03T13:59:35",
+    "type": "Swim",
+    "year": 2026
   }
 ]
