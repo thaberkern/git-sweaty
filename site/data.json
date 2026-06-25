@@ -7657,6 +7657,27 @@
       "subtype": "walking",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-06-24",
+      "hour": 21,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 6,
+      "subtype": "cycling",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 18,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15823,6 +15844,15 @@
           "distance": 5049.980224609375,
           "elevation_gain": 65.0,
           "moving_time": 1086.0
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "23371421666"
+          ],
+          "count": 1,
+          "distance": 12587.08984375,
+          "elevation_gain": 97.0,
+          "moving_time": 2874.0
         }
       },
       "Run": {
@@ -16176,6 +16206,15 @@
           "distance": 11638.9501953125,
           "elevation_gain": 137.0,
           "moving_time": 4448.533020019531
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "23376710541"
+          ],
+          "count": 1,
+          "distance": 822.0399780273438,
+          "elevation_gain": 0.0,
+          "moving_time": 298.0
         }
       },
       "Swim": {
@@ -16989,12 +17028,13 @@
         },
         "2026-06-24": {
           "activity_ids": [
-            "23362503970"
+            "23362503970",
+            "23367768490"
           ],
-          "count": 1,
-          "distance": 3706.56005859375,
-          "elevation_gain": 21.0,
-          "moving_time": 2404.0
+          "count": 2,
+          "distance": 5258.260009765625,
+          "elevation_gain": 42.0,
+          "moving_time": 3635.0
         }
       },
       "WeightTraining": {
@@ -17019,7 +17059,7 @@
       }
     }
   },
-  "generated_at": "2026-06-24T17:01:01.554219+00:00",
+  "generated_at": "2026-06-25T17:06:33.987383+00:00",
   "other_bucket": "OtherSports",
   "repo": "thaberkern/git-sweaty",
   "source": "garmin",
