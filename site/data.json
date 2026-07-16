@@ -7986,6 +7986,27 @@
       "subtype": "cycling",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-07-15",
+      "hour": 18,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-16",
+      "hour": 7,
+      "subtype": "cycling",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-16",
+      "hour": 17,
+      "subtype": "cycling",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16313,6 +16334,16 @@
           "distance": 5076.260009765625,
           "elevation_gain": 68.0,
           "moving_time": 1021.0
+        },
+        "2026-07-16": {
+          "activity_ids": [
+            "23614703378",
+            "23620405328"
+          ],
+          "count": 2,
+          "distance": 5350.64013671875,
+          "elevation_gain": 67.0,
+          "moving_time": 1038.0
         }
       },
       "Run": {
@@ -17595,6 +17626,15 @@
           "distance": 2099.77001953125,
           "elevation_gain": 33.0,
           "moving_time": 1570.0
+        },
+        "2026-07-15": {
+          "activity_ids": [
+            "23609437612"
+          ],
+          "count": 1,
+          "distance": 2279.530029296875,
+          "elevation_gain": 47.0,
+          "moving_time": 1758.0
         }
       },
       "WeightTraining": {
@@ -17619,7 +17659,7 @@
       }
     }
   },
-  "generated_at": "2026-07-15T16:14:42.733271+00:00",
+  "generated_at": "2026-07-16T16:11:43.113087+00:00",
   "other_bucket": "OtherSports",
   "repo": "thaberkern/git-sweaty",
   "source": "garmin",
