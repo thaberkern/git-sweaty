@@ -8070,6 +8070,13 @@
       "subtype": "cycling",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-07-23",
+      "hour": 17,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17747,6 +17754,15 @@
           "distance": 2279.530029296875,
           "elevation_gain": 47.0,
           "moving_time": 1758.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "23704997414"
+          ],
+          "count": 1,
+          "distance": 1228.300048828125,
+          "elevation_gain": 14.0,
+          "moving_time": 850.0
         }
       },
       "WeightTraining": {
@@ -17771,7 +17787,7 @@
       }
     }
   },
-  "generated_at": "2026-07-22T16:16:07.521187+00:00",
+  "generated_at": "2026-07-23T16:21:36.614422+00:00",
   "other_bucket": "OtherSports",
   "repo": "thaberkern/git-sweaty",
   "source": "garmin",
