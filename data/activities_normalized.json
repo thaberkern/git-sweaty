@@ -13894,5 +13894,29 @@
     "start_date_local": "2026-07-24T19:23:01",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 2223.64990234375,
+    "elevation_gain": 28.0,
+    "id": "23731074055",
+    "moving_time": 1518.0,
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-07-25T20:32:27",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 53962.171875,
+    "elevation_gain": 283.0,
+    "id": "23734296110",
+    "moving_time": 7987.867919921875,
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-07-26T05:59:39",
+    "type": "Ride",
+    "year": 2026
   }
 ]
