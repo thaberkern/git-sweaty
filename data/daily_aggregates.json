@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T18:05:12.065366+00:00",
+  "generated_at": "2026-09-02T18:18:41.750091+00:00",
   "years": {
     "2014": {
       "Run": {
@@ -9118,6 +9118,15 @@
           "distance": 736.0,
           "elevation_gain": 0.0,
           "moving_time": 1163.39794921875
+        },
+        "2026-09-02": {
+          "activity_ids": [
+            "24211193780"
+          ],
+          "count": 1,
+          "distance": 1024.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1449.2039794921875
         }
       },
       "VirtualRun": {
@@ -10190,6 +10199,15 @@
           "distance": 4197.72998046875,
           "elevation_gain": 27.0,
           "moving_time": 3113.0
+        },
+        "2026-09-02": {
+          "activity_ids": [
+            "24206344613"
+          ],
+          "count": 1,
+          "distance": 2270.1201171875,
+          "elevation_gain": 1.0,
+          "moving_time": 1550.0
         }
       },
       "WeightTraining": {
