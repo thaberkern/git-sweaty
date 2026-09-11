@@ -8672,6 +8672,27 @@
       "subtype": "lap_swimming",
       "type": "Swim",
       "year": 2026
+    },
+    {
+      "date": "2026-09-11",
+      "hour": 7,
+      "subtype": "cycling",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-11",
+      "hour": 12,
+      "subtype": "elliptical",
+      "type": "Elliptical",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-11",
+      "hour": 15,
+      "subtype": "cycling",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16670,6 +16691,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2744.909912109375
+        },
+        "2026-09-11": {
+          "activity_ids": [
+            "24319942566"
+          ],
+          "count": 1,
+          "distance": 5000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1934.0
         }
       },
       "Ride": {
@@ -17296,6 +17326,16 @@
           "distance": 5585.679931640625,
           "elevation_gain": 65.0,
           "moving_time": 1090.0
+        },
+        "2026-09-11": {
+          "activity_ids": [
+            "24317252478",
+            "24321647101"
+          ],
+          "count": 2,
+          "distance": 5979.16015625,
+          "elevation_gain": 73.0,
+          "moving_time": 1122.0
         }
       },
       "Run": {
@@ -18981,7 +19021,7 @@
       }
     }
   },
-  "generated_at": "2026-09-10T17:58:42.841124+00:00",
+  "generated_at": "2026-09-11T18:04:15.220443+00:00",
   "other_bucket": "OtherSports",
   "repo": "thaberkern/git-sweaty",
   "source": "garmin",
