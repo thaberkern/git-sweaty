@@ -14914,5 +14914,17 @@
     "start_date_local": "2026-09-12T07:09:34",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 14050.0,
+    "elevation_gain": 0.0,
+    "id": "24348564475",
+    "moving_time": 1812.571044921875,
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-09-13T17:30:48",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
