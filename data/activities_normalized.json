@@ -15478,5 +15478,29 @@
     "start_date_local": "2026-10-12T12:11:46",
     "type": "Elliptical",
     "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 2530.5,
+    "elevation_gain": 30.0,
+    "id": "24704682261",
+    "moving_time": 499.0,
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-10-13T07:22:45",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 2406.780029296875,
+    "elevation_gain": 36.0,
+    "id": "24710727367",
+    "moving_time": 442.802001953125,
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-10-13T17:52:05",
+    "type": "Ride",
+    "year": 2026
   }
 ]
