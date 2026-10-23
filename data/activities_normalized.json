@@ -15586,5 +15586,17 @@
     "start_date_local": "2026-10-21T12:13:55",
     "type": "Elliptical",
     "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 3149.739990234375,
+    "elevation_gain": 29.0,
+    "id": "24826982572",
+    "moving_time": 2058.0,
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-10-23T17:37:52",
+    "type": "Walk",
+    "year": 2026
   }
 ]
