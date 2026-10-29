@@ -15646,5 +15646,29 @@
     "start_date_local": "2026-10-28T17:44:07",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 2450.719970703125,
+    "elevation_gain": 32.0,
+    "id": "24889395844",
+    "moving_time": 441.0,
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-10-29T07:21:37",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 2714.75,
+    "elevation_gain": 39.0,
+    "id": "24895249035",
+    "moving_time": 518.0,
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-10-29T17:24:59",
+    "type": "Ride",
+    "year": 2026
   }
 ]
