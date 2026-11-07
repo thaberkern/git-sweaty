@@ -18851,7 +18851,7 @@
             "24985507966"
           ],
           "count": 1,
-          "distance": 0.0,
+          "distance": 15000.0,
           "elevation_gain": 0.0,
           "moving_time": 1625.1429443359375
         }
@@ -20095,7 +20095,7 @@
       }
     }
   },
-  "generated_at": "2026-11-06T20:39:54.986326+00:00",
+  "generated_at": "2026-11-07T19:13:21.718355+00:00",
   "other_bucket": "OtherSports",
   "repo": "thaberkern/git-sweaty",
   "source": "garmin",
