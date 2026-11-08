@@ -9246,6 +9246,20 @@
       "subtype": "cycling",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-11-08",
+      "hour": 10,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-08",
+      "hour": 15,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18571,6 +18585,15 @@
           "distance": 5703.27001953125,
           "elevation_gain": 11.0,
           "moving_time": 2061.9610290527344
+        },
+        "2026-11-08": {
+          "activity_ids": [
+            "25006345044"
+          ],
+          "count": 1,
+          "distance": 5157.06005859375,
+          "elevation_gain": 24.0,
+          "moving_time": 1898.8519897460938
         }
       },
       "Swim": {
@@ -20071,6 +20094,15 @@
           "distance": 2663.929931640625,
           "elevation_gain": 31.0,
           "moving_time": 1917.0
+        },
+        "2026-11-08": {
+          "activity_ids": [
+            "25010559286"
+          ],
+          "count": 1,
+          "distance": 2143.679931640625,
+          "elevation_gain": 27.0,
+          "moving_time": 1471.0
         }
       },
       "WeightTraining": {
@@ -20095,7 +20127,7 @@
       }
     }
   },
-  "generated_at": "2026-11-07T19:13:21.718355+00:00",
+  "generated_at": "2026-11-08T19:16:11.245488+00:00",
   "other_bucket": "OtherSports",
   "repo": "thaberkern/git-sweaty",
   "source": "garmin",
