@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T20:53:42.309957+00:00",
+  "generated_at": "2026-11-24T01:57:56.291774+00:00",
   "years": {
     "2014": {
       "Run": {
@@ -8925,6 +8925,16 @@
           "distance": 4888.630126953125,
           "elevation_gain": 69.0,
           "moving_time": 956.0
+        },
+        "2026-11-23": {
+          "activity_ids": [
+            "25169395602",
+            "25174163304"
+          ],
+          "count": 2,
+          "distance": 4882.22998046875,
+          "elevation_gain": 61.0,
+          "moving_time": 1014.0
         }
       },
       "Run": {
@@ -9788,6 +9798,15 @@
           "distance": 5130.0,
           "elevation_gain": 0.0,
           "moving_time": 1805.9859924316406
+        },
+        "2026-11-23": {
+          "activity_ids": [
+            "25171485391"
+          ],
+          "count": 1,
+          "distance": 5027.990234375,
+          "elevation_gain": 0.0,
+          "moving_time": 1797.1650085449219
         }
       },
       "Walk": {
